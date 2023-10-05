@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HasnainMu252
-- iam student of Computer science in 3rd year , in computer science we have most of the field but i set blockchain developer as a furture roadmap .
+- I am a student in my Final year of Computer Science Currently I am learning React Development
 - 👀 I’m interested in Web 3.0 developer
-- 🌱 I’m currently learning Node.js for backend
-- 💞️ I’m looking to collaborate with student who are also learning something new
+- 🌱 My goal is to become a MERN Developer.
+- 💞️ I’m looking to collaborate with students who are also learning something new
 - 📫 How to reach me 
 - https://www.fiverr.com/users/hasnainmuneer
 
