@@ -1,11 +1,8 @@
-- 👋 Hi, I’m @HasnainMu252
-- I am a student in my Final year of Computer Science Currently I am learning React Development
-- 👀 I’m interested in Android Development.
-- 🌱 My goal is to become a MERN Developer.
-- 💞️ I’m looking to collaborate with students who are also learning something new
-- 📫 How to reach me 
-- https://www.fiverr.com/users/hasnainmuneer
-
+👋 Hello, I'm @HasnainMu252!
+🎓 Computer Scientist with a passion for creating mobile applications.
+📱 Currently diving into Mobile App Development using Kotlin, the official language for Android.
+🚀 Interested in: Android Development, AI, and innovative technologies.
+🤝 Looking to collaborate with fellow learners exploring new and exciting areas of tech!
 <!---
 HasnainMu252/HasnainMu252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
